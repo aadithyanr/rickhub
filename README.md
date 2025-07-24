@@ -1,3 +1,4 @@
+![rickhub logo](logo.png)
 # rickhub
 
 a chrome extension that replaces your github homepage with something actually useful.
